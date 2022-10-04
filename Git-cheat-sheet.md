@@ -29,7 +29,7 @@ Git for All Platforms
 ## configuracion
 
 Si quieres comprobar tu configuración, puedes usar el comando 
-git config --list para mostrar todas las propiedades que Git ha configurado: $ git config --list user.name=John Doe user.
+`git config --list` para mostrar todas las propiedades que Git ha configurado: `$ git config --list user.name=John Doe user.`
 
 `git init`
 
